@@ -1,0 +1,28 @@
+git config --global user.name vinisaomtec-source
+git config --global user.email vinisaomtec@gmail.com
+
+
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npx expo install react-native-screens react-native-safe-area-context
+npx expo install react-native-gesture-handler
+
+npm install nativewind 
+npm install --save-dev tailwindcss@3.3.2
+npx tailwindcss init
+
+
+npm i react-native-reanimated-carousel
+npx expo install react-native-reanimated
+
+npm i react-native-heroicons
+
+npm i expo-linear-gradient
+
+npm i react-native-progress
+
+npm i axios
+
+themoviedb.org ---- criar conta
+vinisaomtec
+VP12341234
