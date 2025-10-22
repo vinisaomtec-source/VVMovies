@@ -1,2 +1,2 @@
 # VVMovies
-Projeto de Aplicação Mobile React NAtive Expo, para consumo da API do themoviedb.org
+VVMovies é um aplicativo móvel desenvolvido com React Native e Expo, projetado para fornecer uma experiência imersiva de navegação no mundo do cinema. O app consome a API do TheMovieDB (TMDb), permitindo aos usuários acessar informações atualizadas sobre filmes, séries, classificações, trailers, e muito mais. Com uma interface intuitiva e design responsivo, o VVMovies oferece uma maneira prática e divertida de explorar o universo cinematográfico diretamente do seu dispositivo móvel.
