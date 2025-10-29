@@ -28,6 +28,8 @@ npx tailwindcss init
 // Carousel
 npm i react-native-reanimated-carousel
 npx expo install react-native-reanimated
+  //Atualizar o carousel
+  npm install react-native-worklets@^0.5.1
 
 // React native heroicons
 npm i react-native-heroicons
