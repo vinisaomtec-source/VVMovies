@@ -1,6 +1,16 @@
 git config --global user.name vinisaomtec-source
 git config --global user.email vinisaomtec@gmail.com
 
+cd VPMovies
+npm i 
+npx expo start --localhost --android
+
+
+
+npx expo start
+
+
+
 // Criar uma conta no site themoviedb.org
 
 themoviedb.org ---- criar conta
